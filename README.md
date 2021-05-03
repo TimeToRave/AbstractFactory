@@ -1,6 +1,6 @@
 # Реализация паттерна "Абстрактная фабрика"
 
-[![Tests](https://github.com/TimeToRave/AbstractFactory/actions/workflows/Tests.yml/badge.svg?branch=main&event=push)](https://github.com/TimeToRave/AbstractFactory/actions/workflows/Tests.yml)
+[![Tests](https://github.com/TimeToRave/AbstractFactory/actions/workflows/Tests.yml/badge.svg)](https://github.com/TimeToRave/AbstractFactory/actions/workflows/Tests.yml)
 
 ## Условия
 
